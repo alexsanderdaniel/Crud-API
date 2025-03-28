@@ -1,0 +1,129 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\appsettings.json
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\scopedcss\bundle\GerandoAtivo.styles.css
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\refint\GerandoAtivo.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\obj\Debug\net6.0\ref\GerandoAtivo.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Mapster.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\POO_2\GerandoAtivo\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\Computador\OneDrive\Área de Trabalho\Pastas\Faculdade\POOI (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.AssemblyReference.cache
+C:\Users\Computador\OneDrive\Área de Trabalho\Pastas\Faculdade\POOI (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\OneDrive\Área de Trabalho\Pastas\Faculdade\POOI (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.AssemblyInfoInputs.cache
+C:\Users\Computador\OneDrive\Área de Trabalho\Pastas\Faculdade\POOI (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.AssemblyInfo.cs
+C:\Users\Computador\OneDrive\Área de Trabalho\Pastas\Faculdade\POOI (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.CoreCompileInputs.cache
+C:\Users\Computador\OneDrive\Área de Trabalho\Pastas\Faculdade\POOI (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Computador\OneDrive\Área de Trabalho\Pastas\Faculdade\POOI (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Computador\OneDrive\Área de Trabalho\Pastas\Faculdade\POOI (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.dll
+C:\Users\Computador\OneDrive\Área de Trabalho\Pastas\Faculdade\POOI (Luciano)\GerandoAtivo\obj\Debug\net6.0\refint\GerandoAtivo.dll
+C:\Users\Computador\OneDrive\Área de Trabalho\Pastas\Faculdade\POOI (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.pdb
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.AssemblyInfo.cs
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.MvcApplicationPartsAssemblyInfo.cs
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\refint\GerandoAtivo.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.pdb
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\appsettings.Development.json
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\appsettings.json
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.exe
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.deps.json
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.runtimeconfig.json
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.pdb
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Humanizer.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Mapster.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Mapster.Core.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\MySqlConnector.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\scopedcss\bundle\GerandoAtivo.styles.css
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.CopyComplete
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.genruntimeconfig.cache
+C:\xampp\htdocs\Alexsander\POO2\GerandoAtivo\obj\Debug\net6.0\ref\GerandoAtivo.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\appsettings.json
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.exe
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.deps.json
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.runtimeconfig.json
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\GerandoAtivo.pdb
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Mapster.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.AssemblyReference.cache
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.AssemblyInfoInputs.cache
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.AssemblyInfo.cs
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.CoreCompileInputs.cache
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\scopedcss\bundle\GerandoAtivo.styles.css
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.csproj.CopyComplete
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\refint\GerandoAtivo.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.pdb
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\GerandoAtivo.genruntimeconfig.cache
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\obj\Debug\net6.0\ref\GerandoAtivo.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alexlenda\Desktop\Pastas\Faculdade\POO II (Luciano)\GerandoAtivo\bin\Debug\net6.0\System.Security.Permissions.dll

@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\Alexlenda\\Desktop\\Pastas\\Faculdade\\POO II (Luciano)\\GerandoAtivo\\GerandoAtivo.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "GerandoAtivo",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
